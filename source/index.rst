@@ -9,8 +9,8 @@ Welcome to test's documentation!
 .. toctree::
    :maxdepth: 2
 
-   intégration
-   test
+   intégration/*
+   test/*
 
 Indices and tables
 ==================
