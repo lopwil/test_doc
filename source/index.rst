@@ -9,12 +9,11 @@ Welcome to test's documentation!
 .. toctree::
    :maxdepth: 2
 
-   intégration/index
-   test/index
+   intégration
+   test
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
