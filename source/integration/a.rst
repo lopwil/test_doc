@@ -81,8 +81,8 @@ Ceci est un encadré flottant :
 .. sidebar:: Encadré flottant
                 :subtitle: Sous-titre
 
-                `Syntaxe`_
-                .. _Syntaxe: http://espe-rtd-reflexpro.u-ga.fr/docs/sandbox2/fr/latest/_sources/syntaxe_rest.txt
+                `Syntaxe`
+.. _Syntaxe: http://espe-rtd-reflexpro.u-ga.fr/docs/sandbox2/fr/latest/_sources/syntaxe_rest.txt
 
 
 ----
@@ -91,24 +91,25 @@ Les admonitions :
 
 .. admonition:: Ceci est une admonition avec un titre modifiable
 
-        `Syntaxe`_
+        `Syntaxe`
 
 .. note:: L'intitulé de cette admonition et des suivantes dépendent de la langue définie dans le fichier conf.py.
 
-.. caution:: `Syntaxe`_
+.. caution:: `Syntaxe`
 
-.. danger:: `Syntaxe`_
+.. danger:: `Syntaxe`
 
-.. error:: `Syntaxe`_
+.. error:: `Syntaxe`
 
-.. hint:: `Syntaxe`_
+.. hint:: `Syntaxe`
 
-.. important:: `Syntaxe`_
+.. important:: `Syntaxe`
 
-.. tip:: `Syntaxe`_
+.. tip:: `Syntaxe`
 
-.. warning:: `Syntaxe`_
+.. warning:: `Syntaxe`
 
 ----
 
-Lien vers une ancre : :ref:`lien_tableaux`
+Lien vers une ancre :
+:ref:`lien_tableaux`
