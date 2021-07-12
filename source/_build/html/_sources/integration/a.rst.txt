@@ -22,7 +22,7 @@ Ceci est un titre de niveau 5
 
 ----
 
-Ceci est un lien vers un titre: 'Ceci est un titre de niveau 1'_
+Ceci est un lien vers un titre: `Ceci est un titre de niveau 1`_
 
 ----
 .. _lien_tableaux:
@@ -115,7 +115,7 @@ Les admonitions :
 
 Lien vers une ancre :
 
-:ref:`lien_tableaux`
+:ref:`lien_tableaux` 
 
 ----
 
@@ -127,3 +127,7 @@ Ceci est un widget d'intégration de code :
 
 ----
 
+Intégration d'une vidéo dans une page
+
+.. raw:: html
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=IGeUST2j-RU" frameborder="0" allowfullscreen></iframe>
