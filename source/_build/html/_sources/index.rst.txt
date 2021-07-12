@@ -10,6 +10,7 @@ Welcome to test's documentation!
    :maxdepth: 2
 
    integration/a
+   integration/installation-de-la-console-sous-ubuntu-2004-lts
    test <https://wisper.io>
 
 Indices and tables
