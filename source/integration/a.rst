@@ -62,12 +62,12 @@ Ceci est une substitution : |remplacement|
 
 ----
 
-Ceci est une table des matières:
+Ceci est une table des matières :
 
 .. contents:: Table des matières
         :depth: 2
         :local:
-        :backlinks:top
+        :backlinks: top
 
 ----
 

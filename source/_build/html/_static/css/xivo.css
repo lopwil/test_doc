@@ -1,5 +1,5 @@
 a {
-  color: #ef7623;
+  color: #1ac5f0;
 }
 a:focus, a:hover {
   color: #999;
@@ -9,7 +9,7 @@ a:visited {
 }
 
 .wy-nav-top {
-  background-color: #ef7623;
+  background-color: #1ac5f0;
 }
 
 .wy-nav-top a {
@@ -17,7 +17,7 @@ a:visited {
 }
 
 .wy-side-nav-search {
-  background-color: #ef7623;
+  background-color: #1ac5f0;
 }
 
 .wy-side-nav-search>a {
@@ -38,7 +38,7 @@ a:visited {
 }
 
 .rst-versions .rst-current-version {
-  color: #ef7623;
+  color: #1ac5f0;
 }
 
 .wy-side-nav-search>div.version {
