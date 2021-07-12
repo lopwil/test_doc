@@ -81,7 +81,7 @@ Ceci est un encadré flottant :
 .. sidebar:: Encadré flottant
                 :subtitle: Sous-titre
 
-                'Syntaxe Sphinx'_
+                `Syntaxe Sphinx`_
                 .. _Syntaxe Sphinx: http://espe-rtd-reflexpro.u-ga.fr/docs/sandbox2/fr/latest/_sources/syntaxe_rest.txt
 
 
@@ -91,20 +91,20 @@ Les admonitions :
 
 .. admonition:: Ceci est une admonition avec un titre modifiable
 
-        'Syntaxe Sphinx'_
+        `Syntaxe Sphinx`_
 
 .. note:: L'intitulé de cette admonition et des suivantes dépendent de la langue définie dans le fichier conf.py.
 
-.. caution:: 'Syntaxe Sphinx'_
+.. caution:: `Syntaxe Sphinx`_
 
-.. danger:: 'Syntaxe Sphinx'_
+.. danger:: `Syntaxe Sphinx`_
 
-.. error:: 'Syntaxe Sphinx'_
+.. error:: `Syntaxe Sphinx`_
 
-.. hint:: 'Syntaxe Sphinx'_
+.. hint:: `Syntaxe Sphinx`_
 
-.. important:: 'Syntaxe Sphinx'_
+.. important:: `Syntaxe Sphinx`_
 
-.. tip:: 'Syntaxe Sphinx'_
+.. tip:: `Syntaxe Sphinx`_
 
-.. warning:: 'Syntaxe Sphinx'_
+.. warning:: `Syntaxe Sphinx`_
