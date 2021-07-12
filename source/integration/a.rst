@@ -21,6 +21,7 @@ Ceci est un titre de niveau 5
 *****************************
 
 ----
+
 Ceci est un lien vers un titre: 'Ceci est un titre de niveau 1'_
 
 ----
