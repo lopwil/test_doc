@@ -113,4 +113,13 @@ Les admonitions :
 ----
 
 Lien vers une ancre :
+
 :ref:`lien_tableaux`_
+
+----
+
+Ceci est un widget d'intégration de code :
+
+.. code-block:: bash
+
+        sudo
