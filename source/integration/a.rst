@@ -72,6 +72,7 @@ Ceci est une table des matières:
 ----
 
 Ceci est une image
+
 .. image:: logo-cebox-wisper.png
 
 ----
@@ -81,7 +82,7 @@ Ceci est un encadré flottant :
 .. sidebar:: Encadré flottant
                 :subtitle: Sous-titre
 
-                `Syntaxe`
+                `Syntaxe`_
 .. _Syntaxe: http://espe-rtd-reflexpro.u-ga.fr/docs/sandbox2/fr/latest/_sources/syntaxe_rest.txt
 
 
@@ -91,25 +92,34 @@ Les admonitions :
 
 .. admonition:: Ceci est une admonition avec un titre modifiable
 
-        `Syntaxe`
+        `Syntaxe`_
 
 .. note:: L'intitulé de cette admonition et des suivantes dépendent de la langue définie dans le fichier conf.py.
 
-.. caution:: `Syntaxe`
+.. caution:: `Syntaxe`_
 
-.. danger:: `Syntaxe`
+.. danger:: `Syntaxe`_
 
-.. error:: `Syntaxe`
+.. error:: `Syntaxe`_
 
-.. hint:: `Syntaxe`
+.. hint:: `Syntaxe`_
 
-.. important:: `Syntaxe`
+.. important:: `Syntaxe`_
 
-.. tip:: `Syntaxe`
+.. tip:: `Syntaxe`_
 
-.. warning:: `Syntaxe`
+.. warning:: `Syntaxe`_
 
 ----
 
 Lien vers une ancre :
-:ref:`lien_tableaux`
+
+:ref:`lien_tableaux`_
+
+----
+
+Ceci est un widget d'intégration de code :
+
+.. code-block:: bash
+
+        sudo

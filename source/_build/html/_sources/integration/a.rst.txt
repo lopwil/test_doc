@@ -72,6 +72,7 @@ Ceci est une table des matières:
 ----
 
 Ceci est une image
+
 .. image:: logo-cebox-wisper.png
 
 ----
@@ -82,7 +83,7 @@ Ceci est un encadré flottant :
                 :subtitle: Sous-titre
 
                 `Syntaxe`_
-                .. _Syntaxe: http://espe-rtd-reflexpro.u-ga.fr/docs/sandbox2/fr/latest/_sources/syntaxe_rest.txt
+.. _Syntaxe: http://espe-rtd-reflexpro.u-ga.fr/docs/sandbox2/fr/latest/_sources/syntaxe_rest.txt
 
 
 ----
@@ -111,4 +112,5 @@ Les admonitions :
 
 ----
 
-Lien vers une ancre : :ref:`lien_tableaux`
+Lien vers une ancre :
+:ref:`lien_tableaux`_
