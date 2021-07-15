@@ -25,9 +25,10 @@ Ceci est un titre de niveau 5
 Ceci est un lien vers un titre: `Ceci est un titre de niveau 1`_
 
 ----
-.. _lien_tableaux:
 
-Ceci est un tableau :
+.. _lien_tableaux:
+Ceci est un tableau
+===================
 
 ==== ==== ========
 A    B    A et B
@@ -73,7 +74,7 @@ Ceci est une table des matières :
 
 ----
 
-Ceci est une image
+Ceci est une image :
 
 .. image:: logo-cebox-wisper.png
 
