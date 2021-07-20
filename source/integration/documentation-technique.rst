@@ -70,15 +70,15 @@ Par défaut, chaque ceBox® intègre un système de tunneling chiffré entre les
 Ce mécanisme s'applique à toutes les versions du produit : ceBox® LAN et ceBox® télétravail.
 Nous utilisons ce mode de fonctionnement pour trois raisons :
 
-  * Mise en place d’un processus d’échange de clés publiques entre WSO®, ceBox® et Cloud
-  * Souplesse du déploiement des ceBox®: le WSO® accepte toujours les clés publiques ceBox®
-  * Gain de temps et sécurisation Wisper du VPN: le process de construction d’un VPN client standard n’est plus utilisé (échange de clés, phases..).
+* Mise en place d’un processus d’échange de clés publiques entre WSO®, ceBox® et Cloud
+* Souplesse du déploiement des ceBox®: le WSO® accepte toujours les clés publiques ceBox®
+* Gain de temps et sécurisation Wisper du VPN: le process de construction d’un VPN client standard n’est plus utilisé (échange de clés, phases..).
 
 Les protocoles de sécurité sont :
  
-  * ChaCha20 pour le cryptage symétrique, authentification par ly1305, Conformément à la  RFC7539 dans l’AEAD construction.
-  * Curve25519 pour ECDH
-  * BLAKE2s pour le hashing et le keyed hashing, conformément à la RFC7693.
-  * SipHash pour les hashtable keys
-  * HKDF pour les key dérivation, conformément à la  RFC5869
+* ChaCha20 pour le cryptage symétrique, authentification par ly1305, Conformément à la  RFC7539 dans l’AEAD construction.
+* Curve25519 pour ECDH
+* BLAKE2s pour le hashing et le keyed hashing, conformément à la RFC7693.
+* SipHash pour les hashtable keys
+* HKDF pour les key dérivation, conformément à la  RFC5869
 
